@@ -33,6 +33,6 @@ public class Main {
         var moreEmployee=totalEmployee+94;
         System.out.println(" Работников больше" + moreEmployee + "человека");
         var lessTime=totalTime/moreEmployee;
-        System.out.println("Если в компании работает человек" + moreEmployee + ", то всего" + lessTime + "часов работы может быть поделено между сотрудниками");
+        System.out.println("Если в компании работает человеr" + moreEmployee + ", то всего" + lessTime + "часов работы может быть поделено между сотрудниками");
     }
 }
